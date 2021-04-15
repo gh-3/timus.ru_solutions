@@ -1,4 +1,3 @@
-
 # solved in timus.ru itself
 # https://acm.timus.ru/help.aspx?topic=python
 
