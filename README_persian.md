@@ -1,4 +1,4 @@
-<p dir="rtl" style="font-size:2px"><strong>حل‌های سایت timus.ru به زبان پایتون #</strong></p>
+<p dir="rtl" style="font-size:2px"><strong># حل‌های سایت timus.ru به زبان پایتون</strong></p>
 
 <p dir="rtl">نسخه پایتون استفاده شده: 3.9</p>
 
