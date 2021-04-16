@@ -1,4 +1,4 @@
-<p dir="rtl" font-family="Tahoma" font-size="40px"># حل‌های سایت timus.ru</p>
+<p dir="rtl"># حل‌های سایت timus.ru</p>
 <p dir="rtl">زبان‌های استفاده شده: پایتون</p>
 
 <p dir="rtl">نسخه پایتون استفاده شده: 3.9</p>
