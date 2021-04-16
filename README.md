@@ -1,8 +1,8 @@
 # timus.ru_solutions
 
-used languages: Python
+Used languages: Python
 
-python version used: 3.9
+Python version used: 3.9
 
 Some problems that I could solve in Python language are in the python directory.
 
